@@ -1,0 +1,6 @@
+# block and arguments
+resource "local_file" "test" {
+
+    filename = "a.txt"
+    content = "Hello World" 
+}
