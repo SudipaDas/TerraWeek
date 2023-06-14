@@ -8,31 +8,20 @@ This repository is your one-stop destination for all things Terraform. Whether y
 
 Terraform is an open-source tool by HashiCorp that lets you define and provision your infrastructure using a simple, declarative language.
 
-## How to Get Started?
+**TerraWeek Challenge Tasks**
 
-1. [Installation](https://karenngugi.hashnode.dev/installing-terraform-on-ubuntu-2204): Follow our easy installation guide to set up Terraform on your machine.
-2. [Learning Resources](https://www.youtube.com/@TrainWithShubham): Access our curated collection of tutorials, videos, and courses to quickly grasp Terraform's concepts.
-3. [Examples](https://github.com/hashicorp/terraform.git): Explore real-world examples covering different cloud providers and use cases to see Terraform in action.
-4. [Documentation](https://registry.terraform.io/): Refer to our comprehensive documentation for in-depth explanations and best practices.
-5. [Community](https://t.me/trainwithshubham): Join the Terraform community to connect with experts, ask questions, and share your knowledge.
+I have accepted the challenge of terraweek. You can check my blog by clicking on these links. 
 
-## Contribute to the Challenge
+https://sudipa.hashnode.dev/introduction-to-terraform-and-terraform-basics
 
-Help us build a valuable resource hub by contributing your Terraform guides, examples, or resources through pull requests.
+https://sudipa.hashnode.dev/understanding-terraform-configuration-languagehcl
 
-<p align="center">
-  <img align="center" src="https://github.com/LondheShubham153/TerraWeek/blob/main/assets/Terraform_background.jpg" width="800">
-</p>
+https://sudipa.hashnode.dev/managing-resources-using-terraform
 
-## Let's Get Started!
+https://sudipa.hashnode.dev/terraform-state-management
 
-Begin your Terraform journey today. Explore the repository, experiment, learn, and build incredible infrastructure solutions. We're excited to see what you create during the Terraweek Challenge! 🎉
+https://sudipa.hashnode.dev/terraform-modules
 
-These are our community Links.
+https://sudipa.hashnode.dev/terraform-providers
 
-- Telegram Channel: [https://t.me/trainwithshubham](https://t.me/trainwithshubham)
-- Discord Channel: [https://discord.gg/hs3Pmc5F](https://discord.gg/hs3Pmc5F)
-- WhatsApp Group: [https://chat.whatsapp.com/FvRlAAZVxUhCUSZ0Y1s7KY](https://chat.whatsapp.com/FvRlAAZVxUhCUSZ0Y1s7KY)
-- YouTube Channel: [https://www.youtube.com/@TrainWithShubham](https://www.youtube.com/@TrainWithShubham)
-- Website: [https://www.trainwithshubham.com/](https://www.trainwithshubham.com/)
-- LinkedIn: [https://www.linkedin.com/in/shubhamlondhe1996/](https://www.linkedin.com/in/shubhamlondhe1996/)
+https://sudipa.hashnode.dev/terraform-advanced-topics
